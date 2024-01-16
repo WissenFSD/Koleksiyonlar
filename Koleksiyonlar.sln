@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{21960367-480E-41AF-B6ED-744D646EA093}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{21960367-480E-41AF-B6ED-744D646EA093}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{8EBB5234-DB88-4E26-A0E9-448193FE2714}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Dictionary\Dictionary.csproj", "{8EBB5234-DB88-4E26-A0E9-448193FE2714}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable_Koleksiyonu", "HashTable_Koleksiyonu\HashTable_Koleksiyonu.csproj", "{5215B6C7-FD31-41C4-A41A-6CB43E41423A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashTable_Koleksiyonu", "HashTable_Koleksiyonu\HashTable_Koleksiyonu.csproj", "{5215B6C7-FD31-41C4-A41A-6CB43E41423A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue_Koleksiyonu", "Queue_Koleksiyonu\Queue_Koleksiyonu.csproj", "{83E3534D-62C7-4859-BE32-85871FA2AB89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue_Koleksiyonu", "Queue_Koleksiyonu\Queue_Koleksiyonu.csproj", "{83E3534D-62C7-4859-BE32-85871FA2AB89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedList_Koleksiyonu", "SortedList_Koleksiyonu\SortedList_Koleksiyonu.csproj", "{86DB3EE9-E946-46B7-BB80-7F9057ADF921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack_Koleksiyonu", "Stack_Koleksiyonu\Stack_Koleksiyonu.csproj", "{BAB4E5F0-6659-4F39-92B4-29E37ECFA852}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{83E3534D-62C7-4859-BE32-85871FA2AB89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83E3534D-62C7-4859-BE32-85871FA2AB89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83E3534D-62C7-4859-BE32-85871FA2AB89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86DB3EE9-E946-46B7-BB80-7F9057ADF921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DB3EE9-E946-46B7-BB80-7F9057ADF921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86DB3EE9-E946-46B7-BB80-7F9057ADF921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86DB3EE9-E946-46B7-BB80-7F9057ADF921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB4E5F0-6659-4F39-92B4-29E37ECFA852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB4E5F0-6659-4F39-92B4-29E37ECFA852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB4E5F0-6659-4F39-92B4-29E37ECFA852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB4E5F0-6659-4F39-92B4-29E37ECFA852}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
